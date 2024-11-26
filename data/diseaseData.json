@@ -1,0 +1,23 @@
+[
+    {
+      "id": "1",
+      "name": "Jerawat",
+      "description": "Jerawat adalah kondisi kulit yang terjadi ketika folikel rambut tersumbat dengan minyak dan sel kulit mati."
+    },
+    {
+      "id": "2",
+      "name": "Dermatitis Kontak",
+      "description": "Dermatitis kontak adalah peradangan kulit yang disebabkan oleh kontak dengan bahan tertentu yang mengiritasi kulit atau menyebabkan alergi."
+    },
+    {
+      "id": "3",
+      "name": "Psoriasis",
+      "description": "Psoriasis adalah penyakit kulit kronis yang ditandai dengan munculnya bercak-bercak merah dengan sisik putih atau perak."
+    },
+    {
+      "id": "4",
+      "name": "Eksim",
+      "description": "Eksim adalah kondisi kulit yang menyebabkan kulit menjadi gatal, merah, dan meradang."
+    }
+  ]
+  
